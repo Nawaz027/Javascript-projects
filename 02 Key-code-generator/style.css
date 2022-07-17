@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ece6e1;
+}
+
+h1 {
+    text-align: center;
+    font-size: 6rem;
+}
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.child {
+    text-align: center;
+    
+}
+
+.value {
+    font-size: 20em;
+    font-weight: bolder;
+}
